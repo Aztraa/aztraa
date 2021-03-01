@@ -1,16 +1,23 @@
-### Hi there 👋
+# About me :
 
-<!--
-**Aztraa/aztraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I am Aztraa, student in cybersecurity and programming
 
-Here are some ideas to get you started:
+# My languages :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5 / CSS
+- Python / Frameworks : Django, Flask, Bottle, CherryPy
+- Java
+- PHP, SQL
+- C / C#
+- Assembly language
+- Batch language / Visual Basic
+- Lisp / Perl / Yaml
+
+# Operating system :
+
+- Linux : Pop! OS / Kali 
+- Windows
+
+# Contact me : 
+
+-Discord : aztraa#9624
