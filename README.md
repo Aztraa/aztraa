@@ -15,7 +15,7 @@ Hello I am Aztraa, student in cybersecurity and programming
 
 # Operating system :
 
-- Linux : Pop! OS / Kali 
+- Linux : Pop! OS / Kali / mint
 - Windows
 
 # Contact me : 
