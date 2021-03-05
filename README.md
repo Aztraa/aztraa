@@ -9,6 +9,7 @@ Hello I am Aztraa, student in cybersecurity and programming
 - Java
 - PHP, SQL
 - C / C#
+- C+ / C++
 - Assembly language
 - Batch language / Visual Basic
 - Lisp / Perl / Yaml
