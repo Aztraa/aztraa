@@ -4,10 +4,11 @@ Hello I am Aztraa, student in cybersecurity and programming
 
 # My languages :
 
-- HTML5 / CSS, PHP, SQL
-- Python, Java
-- C, Assembly language
--Shell / Apache
+- HTML / CSS / JS
+- PHP / SQL
+- Python
+- Assembly language
+- Powershell/Bash
 
 # Operating system :
 
