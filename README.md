@@ -12,8 +12,9 @@ Hello I am Aztraa, student in cybersecurity and programming
 
 # Operating system :
 
-- Linux : Parrot/Kali
+- Linux : Parrot/Kali & Debian
 - Windows
+- Mac OS
 
 # Contact me : 
 
