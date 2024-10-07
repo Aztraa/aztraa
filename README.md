@@ -4,9 +4,9 @@ Hello I am Aztraa, student in cybersecurity and programming
 
 # My languages :
 
+- Python
 - HTML / CSS / JS
 - PHP / SQL
-- Python
 - Assembly language
 - Powershell/Bash
 
