@@ -23,6 +23,15 @@ Hello, I'm **vctr**, a passionate student in **cybersecurity** and **programming
 
 ---
 
+# 🌍 Languages Spoken
+- **English** 🇬🇧/🇺🇸
+- **Dutch** 🇳🇱
+- **French** 🇫🇷
+- **German** 🇩🇪
+- **Some Luxembourgish** 🇱🇺
+
+---
+
 # 📫 Contact Me
 Feel free to reach out to me on Discord: **aztraa#9624**. I’m always open to discussions about cybersecurity, programming, or any exciting tech topics!
 
