@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hello, I'm **vctr**, a passionate student in **cybersecurity** and **programming**. I'm currently preparing for certifications in ethical hacking such as **CEH**, **CompTIA Security+**, and **Pentest+**.
+Hello, I'm **vctr**, a passionate student in **cybersecurity** and **programming**. I'm currently preparing for certifications in ethical hacking such as **CEH**, **CompTIA Security+**, and **Pentest+**, while taking courses through **Harvard Online**.
 
 ---
 
